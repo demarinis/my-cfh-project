@@ -4,8 +4,10 @@ def main():
    my_list = [1, 99, 3, 4, 5]
 
    my_array = np.array(my_list)
-   print(my_list[1]) 
-   print(my_array[1])
+   
+   print(my_list[2]) 
+   
+   print(my_array[0])
 
 
 if __name__ == "__main__":
